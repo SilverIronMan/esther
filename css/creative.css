@@ -3,7 +3,6 @@
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
-
 html,
 body {
   height: 100%;
@@ -402,3 +401,17 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #222222;
 }
+
+
+/*----------------------
+Post-Theme CSS
+----------------------*/
+.book-cover{
+  margin:auto; 
+  height:20em;
+}
+
+.bold{
+  font-weight: bold;
+}
+

@@ -1,0 +1,18 @@
+# Site settings
+title: Esther Johnson Holistic Nurse
+email: Ejohnsonholisticnurse@gmail.com
+description: "Health is a State of Harmony & Balance"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://silverironman.github.io/esther/" # the base hostname & protocol for your site
+github_username:  SilverIronMan
+
+# Build settings
+markdown: kramdown
+
+permalink: /:title
+
+assets:
+  img:   '/assets/img/'
+  css:   '/assets/css/'
+  js:    '/assets/js/'
+  fonts: '/assets/font-awesome/'

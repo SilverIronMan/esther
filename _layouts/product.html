@@ -19,25 +19,25 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                 <li>
-                    <a class="page-scroll" href="/#about">About Esther Johnson</a>
+                    <a class="page-scroll" href="{{ site.baseurl }}#about">About Esther Johnson</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="/#ebook">E-Book</a>
+                    <a class="page-scroll" href="{{ site.baseurl }}#ebook">E-Book</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="/#events">Events</a>
+                    <a class="page-scroll" href="{{ site.baseurl }}#events">Events</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="/#services">Services</a>
+                    <a class="page-scroll" href="{{ site.baseurl }}#services">Services</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="/#products">Products</a>
+                    <a class="page-scroll" href="{{ site.baseurl }}#products">Products</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="/#info">Health and Wellness</a>
+                    <a class="page-scroll" href="{{ site.baseurl }}#info">Health and Wellness</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="/#contact">Schedule Appointments</a>
+                    <a class="page-scroll" href="{{ site.baseurl }}#contact">Schedule Appointments</a>
                 </li>
             </ul>
         </div>
@@ -52,7 +52,7 @@
 
   	<article class="post-content">
   		<ul class="productsColumns">
-  			<li><img src="{{ site.assets.img }}{{ page.img }}" class="img-responsive" alt=""></li>
+  			<li><img src="{{ site.baseurl }}{{ site.assets.img }}{{ page.img }}" class="img-responsive" alt=""></li>
   			<li>{{ content }}</li>
 		</ul>
   	</article>

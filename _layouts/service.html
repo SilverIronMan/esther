@@ -1,0 +1,62 @@
+---
+---
+{% include head.html %}
+
+<nav id="mainNav" class="navbar navbar-default navbar-fixed-top nav-background">
+    <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand page-scroll" href="#page-top">Esther Johnson Holistic Nurse</a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a class="page-scroll" href="{{ site.baseurl }}#about">About Esther Johnson</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="{{ site.baseurl }}#ebook">E-Book</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="{{ site.baseurl }}#events">Events</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="{{ site.baseurl }}#services">Services</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="{{ site.baseurl }}#products">Products</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="{{ site.baseurl }}#info">Health and Wellness</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="{{ site.baseurl }}#contact">Schedule Appointments</a>
+                </li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container-fluid -->
+</nav>
+
+<div class="post">
+
+  	<h1 class="post-title">{{ page.title }}</h1>
+    <h2 class="post-subtitle">{{ page.subtitle }}</h2>
+    
+
+  	<article class="post-content">
+        <div class="col-lg-10 col-lg-offset-1">
+  		    {{ content }}
+        </div>
+  	</article>
+
+</div>
+{% include footer.html %}

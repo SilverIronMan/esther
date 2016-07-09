@@ -416,10 +416,15 @@ Post-Theme CSS
   font-weight: bold;
 }
 
-/* Products Page CSS */
+/* Products and Services Pages CSS */
 .post .post-title {
   text-align: center;
-  margin-top: 50px;
+  margin-top: 75px;
+}
+
+.post .post-subtitle {
+  text-align: center;
+  margin-top: 5px;
 }
 
 .productsColumns {
@@ -440,4 +445,30 @@ Post-Theme CSS
 }
 .nav-background {
   background-color: #f05f40;
+}
+
+.border {
+  clear: both; 
+  border-style: solid;
+  border-width: medium;
+  padding: 2px 5px;
+}
+
+ul.acutonics {
+  display: inline-block;
+  text-align: left;
+}
+
+.center {
+  text-align: center;
+}
+
+.left {
+  float: left;
+  margin: 10px;
+}
+
+.right {
+  float: right;
+  margin: 10px;
 }

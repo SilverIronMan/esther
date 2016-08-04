@@ -4,7 +4,7 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 html,
-body {
+#page-top {
   height: 100%;
   width: 100%;
 }
@@ -408,7 +408,7 @@ Post-Theme CSS
 ----------------------*/
 
 .book-cover{
-  margin:auto; 
+  margin:auto;
   height:20em;
 }
 
@@ -448,7 +448,7 @@ Post-Theme CSS
 }
 
 .border {
-  clear: both; 
+  clear: both;
   border-style: solid;
   border-width: medium;
   padding: 2px 5px;

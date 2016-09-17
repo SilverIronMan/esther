@@ -476,3 +476,10 @@ ul.acutonics {
   float: right;
   margin: 10px;
 }
+
+#products .row.no-gutter,
+#services .row.no-gutter {
+  display: flex;
+  flex-direction:row; 
+  flex-wrap: wrap;
+}

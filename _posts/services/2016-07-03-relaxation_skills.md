@@ -3,7 +3,7 @@ layout: 	service
 title:  	Relaxation Skills
 date:   	2015-07-30
 category: 	service
-img: 		portfolio/2.jpg
+img: 		relaxation_skills_service.jpg
 ---
 <p>Relaxation Skills use the mind-body connection to effect desired changes. Using simple suggestions, the practitioner guides the patient or family member in mentally creating the desired changes in his or her physical or emotional state. Techniques using the mind-body connection have proven very effective in reducing stress and anxiety, and have also proven helpful in pain management. Relaxation skills include breathing techniques, progressive muscle relaxation, affirmations, imagery and hypnosis.</p>
 <p>Relaxation skills are a key component in helping individuals feel more comfortable.  We all possess the ability to trigger our own natural relaxation response.  When an individual is able to tap into their own relaxation response it allows breaking out of the fear-tension-pain cycle or helps them find peace and calm.  Although relaxation training is seldom a complete treatment for an individual’s condition, illness or dis-ease, it is often a significant method to help manage one’s health. </p>

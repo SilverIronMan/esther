@@ -3,7 +3,7 @@ layout: 	service
 title:  	Bio-Energy Techniques
 date:   	2015-09-17
 category: 	service
-img: 		portfolio/3.jpg
+img: 		bio_energy.jpg
 ---
 <p>Bio-Energy Techniques such as Reiki, Therapeutic Touch and Healing Touch can help in managing an individual’s pain, anxiety or dis-ease and help with overall relaxation. Bio-energy techniques work to balance and re-align the energy flow of the body either by laying hands directly on the body or by working with the person’s energy field. </p>
 <p>Bio-Energetic Techniques can be utilized for a variety of conditions, although the most common indications for use are for:</p>
